@@ -7,7 +7,7 @@ const findContinentOfParticipants = (continent) => {
   return filteredList.length;
 };
 
-const list = [
+const listOfParticipants = [
   {
     firstName: "Noah",
     country: "Switzerland",
